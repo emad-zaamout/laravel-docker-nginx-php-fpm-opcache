@@ -1,10 +1,17 @@
 
 ## Laravel Docker Nginx PHP-FPM OP_CACHE
 
-Course Videos: https://www.youtube.com/channel/UCrw3F3hnsOGRXFJXHo_Ri6w
+Course Videos: https://www.youtube.com/@ahtcloud
+
 Website: https://ahtcloud.com
 
-Laravel Docker Nginx build using PHP-FPM and OP_CACHE. This build delivers top performance.
+Laravel Docker Nginx build using PHP-FPM and OP_CACHE. 
+
+This build delivers top performance.
+
+By using nginx, php-fpm and op_cache, were able to reduce our request response times and serve requests in `5ms`!
+
+
 
 
 ## How to use?
