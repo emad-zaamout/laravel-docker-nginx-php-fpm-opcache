@@ -11,6 +11,7 @@ else
     echo "env file exists."
 fi
 
+php artisan key:generate
 php artisan config:clear
 php artisan view:clear
 php artisan cache:clear
